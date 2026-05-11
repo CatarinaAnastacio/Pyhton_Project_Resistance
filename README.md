@@ -35,7 +35,7 @@ Edit the file paths in the end of `Project_final_resistance.py` to run other dat
 python Project_final_resistance.py
 ```
 
-The program prints all genes that pass the 95 % coverage / 10× depth thresholds,
+The program prints all genes that pass the 95 % coverage and 10 depth thresholds,
 sorted by coverage, average depth, then minimum depth.
 
 ## Running the tests
